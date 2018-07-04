@@ -1,0 +1,7 @@
+{
+  "name": "ionic3-plantilla",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
